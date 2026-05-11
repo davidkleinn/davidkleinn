@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="Banner" width="100%">
+  <img src="code.jpg" alt="Banner" width="100%">
 </div>
 
 <br>
@@ -51,7 +51,7 @@ Passionate about Data Engineering and Analytics, with a strong focus on building
 <div align="center">
   <i>Get in touch with me!</i>
   <br><br>
-  <a href="https://linkedin.com/in/davi-klein" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-klein-7b43833b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:davimonteklein1711@gmail.com" target="_blank">
