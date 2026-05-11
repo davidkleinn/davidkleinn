@@ -69,11 +69,6 @@ Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. St
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davidkleinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkleinn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidkleinn&theme=tokyonight&hide_border=true" alt="Davi's GitHub Streak" />
 </div>
 
@@ -81,8 +76,8 @@ Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. St
 
 ## 🏛️ Currently
 
-- 🔬 Member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
-- 📖 Researching ENEM microdata for my graduation thesis (TCC)
+- 🔬 Former member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
+- 📖 Researching microdata for my graduation thesis (TCC)
 - ⚡ Solving algorithms on **Beecrowd** with Python & Java
 
 ---
