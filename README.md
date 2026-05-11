@@ -54,7 +54,8 @@ Passionate about Data Engineering and Analytics, with a strong focus on building
   <a href="https://www.linkedin.com/in/davi-klein-7b43833b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:davimonteklein1711@gmail.com" target="_blank">
+  //<a href="mailto:davimonteklein1711@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=davimonteklein1711@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
