@@ -62,7 +62,7 @@ Built with **Godot 4.2.1** in a multidisciplinary team. Responsible for core gam
 
 Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. Structured with Next.js API Routes for clean separation of concerns.
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/davidkleinn/restaurant-reservation-system-mvc)
 
 ---
 
