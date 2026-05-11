@@ -79,6 +79,7 @@ Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. St
 - 🔬 Former member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
 - 📖 Researching microdata for my graduation thesis (TCC)
 - ⚡ Solving algorithms on **Beecrowd** with Python & Java
+- 🎯 Searching for internships on **Data Analytics** or **Data Engineering**
 
 ---
 
