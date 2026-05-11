@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1a1a2e/ffffff?text=hey,+i'm+Davi!" alt="White Minimalist Corporate Personal Profile LinkedIn Banner.png" width="100%">
+  <img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" alt="Banner" width="100%">
 </div>
 
 <br>
