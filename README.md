@@ -43,7 +43,7 @@ Passionate about Data Engineering and Analytics, with a strong focus on building
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidkleinn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Davi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidkleinn&theme=tokyonight&hide_border=true" alt="Davi's GitHub Streak" />
 </div>
 
 <br>
