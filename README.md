@@ -53,7 +53,7 @@ Passionate about **Data Engineering** and **Analytics**, with a strong focus on 
 
 Built with **Godot 4.2.1** in a multidisciplinary team. Responsible for core game mechanics, technical design documentation, and troubleshooting.
 
-[→ View Repository](#)
+[→ View Repository](https://github.com/davidkleinn/BiblioQuest)
 
 ---
 
