@@ -48,19 +48,19 @@ Passionate about **Data Engineering** and **Analytics**, with a strong focus on 
 
 ## 🚀 Featured Projects
 
-### 📚 BiblioQuest
-> 2D top-down puzzle game focused on mathematical logic and structured reasoning
+### 🛒 E-Commerce Funnel & Behavior Analysis
+> End-to-end conversion funnel and user behavior analysis of an e-commerce store with 9.3k+ events.
 
-Built with **Godot 4.2.1** in a multidisciplinary team. Responsible for core game mechanics, technical design documentation, and troubleshooting.
+Built with **SQL (DuckDB)** and **Python (Pandas)**. Extracted business intelligence through complex queries, including Cohort Analysis, RFM Customer Segmentation, and Revenue Performance mapping. Presented findings via a data-driven executive slide deck.
 
-[→ View Repository](https://github.com/davidkleinn/BiblioQuest)
+[→ View Repository](https://github.com/davidkleinn/ecommerce-funnel-analysis) *(lembre-se de criar este repositório e ajustar o link se necessário)*
 
 ---
 
 ### 🍽️ Restaurant Reservation System
 > Full-stack reservation management system with professional MVC architecture
 
-Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. Structured with Next.js API Routes for clean separation of concerns.
+Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. Structured with Next.js API Routes for clean separation of concerns. Showcases database modeling and RESTful API integration.
 
 [→ View Repository](https://github.com/davidkleinn/restaurant-reservation-system-mvc)
 
@@ -76,10 +76,10 @@ Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. St
 
 ## 🏛️ Currently
 
-- 🔬 Former member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
-- 📖 Researching microdata for my graduation thesis (TCC)
+- 📖 Researching public microdata (ENEM) for my graduation thesis (TCC)
 - ⚡ Solving algorithms on **Beecrowd** with Python & Java
-- 🎯 Searching for internships on **Data Analytics** or **Data Engineering**
+- 🔬 Former member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
+- 🎯 Searching for internships in **Data Analytics** or **Data Engineering**
 
 ---
 
