@@ -53,7 +53,7 @@ Passionate about **Data Engineering** and **Analytics**, with a strong focus on 
 
 Built with **SQL (DuckDB)** and **Python (Pandas)**. Extracted business intelligence through complex queries, including Cohort Analysis, RFM Customer Segmentation, and Revenue Performance mapping. Presented findings via a data-driven executive slide deck.
 
-[→ View Repository](https://github.com/davidkleinn/ecommerce-funnel-analysis) *(lembre-se de criar este repositório e ajustar o link se necessário)*
+[→ View Repository](https://github.com/davidkleinn/ecommerce-funnel-analysis)
 
 ---
 
