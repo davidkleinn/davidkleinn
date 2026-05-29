@@ -48,6 +48,15 @@ Passionate about **Data Engineering** and **Analytics**, with a strong focus on 
 
 ## 🚀 Featured Projects
 
+### ⚡ CPU vs GPU Parallel Processing Benchmark
+> Performance analysis of concurrent data processing using Java ForkJoinPool and OpenCL.
+
+Engineered a benchmark framework to evaluate sequential vs. distributed text processing algorithms. Implemented parallel workloads across multi-core CPUs and GPU architectures, analyzing memory transfer bottlenecks (PCIe overhead) and optimizing execution for varying dataset sizes. Built with **Java 17**, **Maven**, and **JOCL**.
+
+[→ View Repository](https://github.com/davidkleinn/word-count-benchmark)
+
+---
+
 ### 🛒 E-Commerce Funnel & Behavior Analysis
 > End-to-end conversion funnel and user behavior analysis of an e-commerce store with 9.3k+ events.
 
@@ -78,7 +87,7 @@ Built with **Next.js 14**, **React**, **Tailwind CSS** and **MySQL** backend. St
 
 - 📖 Researching public microdata (ENEM) for my graduation thesis (TCC)
 - ⚡ Solving algorithms on **Beecrowd** with Python & Java
-- 🔬 Former member of the **Competitive Programming Group (GPC) — Robotics Division** at UNIFOR
+- 🔬 Former member of the **Competitive Programming Group (GPC)** at UNIFOR
 - 🎯 Searching for internships in **Data Analytics** or **Data Engineering**
 
 ---
