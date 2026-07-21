@@ -31,25 +31,41 @@ Passionate about **Backend Development**, **Data Engineering**, and **Analytics*
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-**Databases & Data Processing**
+**Data Engineering & Analytics**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Databases & Data Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Orchestration, Cloud & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 Pipeline de Indicadores Econômicos — Banco Central do Brasil
+> End-to-end batch data pipeline for Brazilian economic indicators (Selic, IPCA, USD/BRL), from ingestion to BI.
+
+Orchestrated with **Apache Airflow** (daily idempotent extraction), processed 42 years of history (~21k records) with **PySpark** window functions (moving averages, percentage change), modeled through a **dbt** staging → intermediate → marts architecture with 16 automated data quality tests, and published to **BigQuery** with a **Power BI** dashboard. Fully containerized with **Docker Compose**. The README documents every architecture decision (idempotency strategy, materialization choices, why PySpark despite the modest data volume) as if explaining it in an interview.
+
+[→ View Repository](https://github.com/davidkleinn/pipeline-indicadores-bcb)
+
+---
 
 ### ⚡ CPU vs GPU Parallel Processing Benchmark
 > Performance analysis of concurrent data processing using Java ForkJoinPool and OpenCL.
@@ -57,15 +73,6 @@ Passionate about **Backend Development**, **Data Engineering**, and **Analytics*
 Engineered a benchmark framework to evaluate sequential vs. distributed text processing algorithms. Implemented parallel workloads across multi-core CPUs and GPU architectures, analyzing memory transfer bottlenecks (PCIe overhead) and optimizing execution for varying dataset sizes. Built with **Java 17**, **Maven**, and **JOCL**.
 
 [→ View Repository](https://github.com/davidkleinn/word-count-benchmark)
-
----
-
-### 🍽️ Restaurant Reservation System (Full-Stack & Backend)
-> Full-stack reservation management system structured with professional MVC architecture.
-
-Built with **Next.js 14**, **React**, **Tailwind CSS**, and **MySQL** backend. Structured with API Routes for clean separation of concerns. Showcases robust database modeling, RESTful API integration, and scalable data handling.
-
-[→ View Repository](https://github.com/davidkleinn/restaurant-reservation-system-mvc)
 
 ---
 
