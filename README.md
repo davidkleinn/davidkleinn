@@ -10,26 +10,17 @@
 
 <br>
 
-Passionate about **Backend Development**, **Data Engineering**, and **Analytics**, with a strong focus on building scalable architectures, extracting valuable insights, and solving complex problems.
+Passionate about **Data Engineering**, and **Analytics**, with a strong focus on building scalable architectures, extracting valuable insights, and solving complex problems.
 
-- 🎓 B.S. Computer Science Student at **UNIFOR** (6th semester)
-- 🎯 Seeking an internship in **Backend Development**, **Data Engineering**, or **Data Analytics**
-- 🛠️ Building robust RESTful APIs and microservices using **Java & Spring Boot**
-- 📊 Exploring public datasets (including **ENEM microdata**) and building analytical pipelines
+- 🎓 B.S. Computer Science Student at **UNIFOR**
+- 🎯 Seeking an internship in **Data Engineering** or **Data Analytics**
+- 📊 Exploring public datasets and building analytical pipelines
 - 🤖 Interested in **NLP** and integrating LLM APIs into scalable workflows
 - 🌍 Languages: Portuguese (Native) · English (Fluent) · Spanish (Intermediate) · German (Basic)
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Backend & Programming Languages**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Data Engineering & Analytics**
 
@@ -95,8 +86,6 @@ Built with **SQL (DuckDB)** and **Python (Pandas)**. Extracted business intellig
 
 ## 🏛️ Currently
 
-- 📖 Researching public microdata (ENEM) for my graduation thesis (TCC)
-- ⚡ Solving algorithms on **Beecrowd** with Python & Java
 - 🔬 Former member of the **Competitive Programming Group (GPC)** at UNIFOR
 - 🎯 Searching for internships in **Backend Development**, **Data Analytics**, or **Data Engineering**
 
