@@ -10,7 +10,7 @@
 
 <br>
 
-Olá! Sou o **Davi**, estudante de Ciência da Computação na **UNIFOR** (formatura em 2027). Gosto de transformar dado bruto em informação que ajuda alguém a decidir: construo pipelines, dashboards e automações, e tento sempre explicar o porquê de cada decisão técnica.
+Olá! Sou o **Davi**, estudante de Ciência da Computação na **UNIFOR**. Gosto de transformar dado bruto em informação que ajuda alguém a decidir: construo pipelines, dashboards e automações, e tento sempre explicar o porquê de cada decisão técnica.
 
 - 🎓 Bacharelado em Ciência da Computação, **UNIFOR** (Fortaleza, CE)
 - 🎯 Buscando estágio ou vaga júnior em **Dados / BI** e **Automação de Processos**
